@@ -1,6 +1,3 @@
 creatd in la1
-<<<<<<< HEAD
 adding text to check conflicts
-=======
 adding from la3 to la1.txt
->>>>>>> ca9f2e67168ce0cba19920f8501a83823b58441d
